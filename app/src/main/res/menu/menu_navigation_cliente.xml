@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/estadotickets"
+    android:icon="@drawable/ic_ticket_account"
+    android:title="Tickets" />
+ <item
+     android:id="@+id/añadirticket"
+     android:icon="@drawable/ic_add_ticket"
+     android:title="Registrar ticket" />
+
+ <item android:id="@+id/perfil"
+       android:icon="@drawable/ic_perfil"
+       android:title="Perfil" />
+<item android:id="@+id/asignariconos"
+      android:icon="@drawable/ic_asignar_ticketds"
+      android:title="Asignar Tickets"
+      />
+ <item android:id="@+id/atenderticket"
+       android:icon="@drawable/ic_ateneder_tickets"
+       android:title="Atender tickets"
+       />
+</menu>
