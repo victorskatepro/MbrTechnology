@@ -33,8 +33,9 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/edtpassword"
+                    android:inputType="textPassword"
                     android:hint="@string/txt_loginactivity_password"
-                    android:inputType="textEmailAddress" />
+                    />
             </android.support.design.widget.TextInputLayout>
             <Button
                 android:layout_marginTop="20dp"
@@ -52,6 +53,7 @@
                 android:textColor="@color/primary_text"
                 android:textSize="15sp"
                 android:text="¿No recuerdas tu contraseña?"/>
+
         </LinearLayout>
     </RelativeLayout>
 

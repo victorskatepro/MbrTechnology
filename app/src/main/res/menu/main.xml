@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <item
+        android:id="@+id/consultartodostickets"
+        android:title="Consultar sus Tickets" />
+    <item
+        android:id="@+id/reportetodotickets"
+        android:title="Report de Tickets" />
+    <item
+        android:id="@+id/consultarticketsasignados"
+        android:title="Consultar tickets asignados" />
 </menu>

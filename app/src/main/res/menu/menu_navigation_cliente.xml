@@ -3,9 +3,9 @@
 <item
     android:id="@+id/estadotickets"
     android:icon="@drawable/ic_ticket_account"
-    android:title="Tickets" />
+    android:title="Consultar sus Tickets" />
  <item
-     android:id="@+id/añadirticket"
+     android:id="@+id/anadirticket"
      android:icon="@drawable/ic_add_ticket"
      android:title="Registrar ticket" />
 

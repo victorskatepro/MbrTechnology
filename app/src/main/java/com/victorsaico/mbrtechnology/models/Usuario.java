@@ -1,4 +1,4 @@
-package com.victorsaico.mbrtechnology;
+package com.victorsaico.mbrtechnology.models;
 
 /**
  * Created by JARVIS on 25/09/2017.
